@@ -4,18 +4,18 @@
 
 ## Currently learning:
 
-• Python
-• SQL
-• APIs
-• AI Automation
-• Business Systems
+- Python
+- SQL
+- APIs
+- AI Automation
+- Business Systems
 
 ##Projects
 
-• Smart Expense Tracker
-• Student Task Manager
-• Library Database System
-• Weather Dashboard
+- Smart Expense Tracker
+- Student Task Manager
+- Library Database System
+- Weather Dashboard
 
 ## Connect with me
 
