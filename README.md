@@ -16,6 +16,7 @@
 - Student Task Manager
 - Library Database System
 - Weather Dashboard
+- Email-Automation-Tool
 
 ## Connect with me
 
