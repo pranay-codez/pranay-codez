@@ -17,6 +17,8 @@
 - Library Database System
 - Weather Dashboard
 - Email-Automation-Tool
+- Automated-Content-Pipeline
+- Resume-Analyzer
 
 ## Connect with me
 
