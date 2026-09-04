@@ -16,9 +16,10 @@
 - Student Task Manager
 - Library Database System
 - Weather Dashboard
-- Email-Automation-Tool
-- Automated-Content-Pipeline
-- Resume-Analyzer
+- Email Automation Tool
+- Automated Content Pipeline
+- Resume Analyzer
+- PDF QA System
 
 ## Connect with me
 
