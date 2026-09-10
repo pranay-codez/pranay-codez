@@ -20,6 +20,7 @@
 - Automated Content Pipeline
 - Resume Analyzer
 - PDF QA System
+- College-Notes-Assistant
 
 ## Connect with me
 
