@@ -21,6 +21,8 @@
 - Resume Analyzer
 - PDF QA System
 - College-Notes-Assistant
+- Ai-Clinic-Chatbot
+- content-automation-api
 
 ## Connect with me
 
